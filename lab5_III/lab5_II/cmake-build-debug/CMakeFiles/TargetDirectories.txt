@@ -1,0 +1,3 @@
+C:/Users/Latitude/Desktop/lab5_II/cmake-build-debug/CMakeFiles/lab5_II.dir
+C:/Users/Latitude/Desktop/lab5_II/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Latitude/Desktop/lab5_II/cmake-build-debug/CMakeFiles/rebuild_cache.dir
